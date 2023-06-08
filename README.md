@@ -1,4 +1,4 @@
 # my_exercises
-The exercises that I'm doing to learn Python! ^-^
+The exercises that I'm doing to practice! ^-^
 
 
